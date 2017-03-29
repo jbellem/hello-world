@@ -1,2 +1,4 @@
 # hello-world
-Tutorial repository
+Example text
+
+This is just an example of a commit.
